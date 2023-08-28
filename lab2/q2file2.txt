@@ -1,0 +1,14 @@
+GCD of 11 & 12 is 1
+GCD of 31 & 4 is 1
+GCD of 5 & 10 is 5
+GCD of 2 & 6 is 2
+GCD of 8 & 24 is 8
+GCD of 5 & 13 is 1
+GCD of 14 & 15 is 1
+GCD of 16 & 32 is 16
+GCD of 18 & 19 is 1
+GCD of 21 & 22 is 1
+GCD of 23 & 91 is 1
+GCD of 45 & 55 is 5
+GCD of 11 & 77 is 11
+GCD of 2 & 44 is 2
